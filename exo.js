@@ -23,8 +23,6 @@ let features = 147
 
 let featuri = 153244
 
-<<<<<<< HEAD
-let rebase= "56874"
-=======
 let rebase = "124114"
->>>>>>> rebase
+
+let afterrebase ="6767767"
