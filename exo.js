@@ -15,3 +15,4 @@ let u = 6
 
 let zx = 731
 
+let merging = [x,6,3]
