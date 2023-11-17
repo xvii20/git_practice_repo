@@ -47,3 +47,6 @@ let cvb = 9
 
 let xa = 242424
 let xatwo = 4244
+
+
+let mnm = 1
